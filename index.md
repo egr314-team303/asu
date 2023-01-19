@@ -7,7 +7,7 @@ title: Mobile Environmental Sensings
 ## Introduction
 
 **Bold Text**
-_Italic Text_
+Mobile Environmental Sensings
 **_Bold and Italic Text_**
 
 ## Research Question
