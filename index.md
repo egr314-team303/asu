@@ -8,6 +8,8 @@ title: Mobile Environmental Sensings
 
 **Bold Text**
 Mobile Environmental Sensings
+EGR314 2023 Spring
+
 **_Bold and Italic Text_**
 
 ## Research Question
