@@ -6,6 +6,6 @@ title: Background
 
 ## Introduction
 
-## Conclusions
+## Conclusion
 
 ## References
