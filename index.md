@@ -14,7 +14,7 @@ title: Mobile Environmental Sensings
 **_Bold and Italic Text_**
 
 ## Team Organization
-(The Complete Team Organization is here [Appendix A:Team Organization](/Appendix A:Team Organization))
+(The Complete Team Organization is here [Appendix A Team Organization](/Appendix A Team Organization))
 
 * Charter
 
