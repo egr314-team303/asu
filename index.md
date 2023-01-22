@@ -40,7 +40,7 @@ Our mission is to design and construct a robotic device that can demonstrate the
 
 The first thing we did for user needs was that we set up a jam board so that each member of the team could write down the user needs they thought were important.
 
-![image caption]([https://idealab.asu.edu/assets/images/research/jumper1.png](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230118_120048.png))
+![image caption]([https://idealab.asu.edu/assets/images/research/jumper1.png](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230118_120048.png?raw=true))
 
 ## Background
 
