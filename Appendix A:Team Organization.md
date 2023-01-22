@@ -1,5 +1,5 @@
 ---
-title: Appendix A:Team Organization
+title: "Appendix A: Team Organization"
 ---
 Team Charter- 303
 
