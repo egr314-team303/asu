@@ -31,6 +31,8 @@ title: Mobile Environmental Sensings
 Our team looks to find success within this project by creating a robotic system that can accurately detect and provide to those who are wanting to detect nearby temperature and humidity anywhere. By creating a design that is elegant and works efficiently, we hope to present to our stakeholders a project that we can all be proud of.
 
 * Mission Statement
+
+
 Our mission is to design and construct a robotic device that can demonstrate the advantages of simplicity, portability and precise detection of temperature and humidity. Our team is committed to developing a product which is safe for stakeholders to interact with a mobile phone connected via WiFi, while also providing a motion capability that can be detected by moving into tight places.
 
 ## Background
