@@ -14,7 +14,7 @@ title: Mobile Environmental Sensings
 **_Bold and Italic Text_**
 
 ## Team Organization
-(The Complete Team Organization is here [Appendix A Team Organization](/Team Charter))
+(The Complete Team Organization is here [Appendix A Team Organization](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Team%20Charter.pdf))
 
 * Charter
 
