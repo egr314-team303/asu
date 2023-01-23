@@ -5,7 +5,7 @@ title: Mobile Environmental Sensings
 # Link to our team's Youtube presentation video
 
 * [Checkpoint 1](https://youtu.be/aUGKlzh9vjw)
-*
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aUGKlzh9vjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Title
@@ -41,7 +41,7 @@ Our mission is to design and construct a robotic device that can demonstrate the
 
 The complete User Needs is here([Appendix B:complete User Needs](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/User%20Needs%20and%20Benchmarking%20303.pdf?raw=true))
 
-The first thing we did for user needs was that we set up a jam board so that each member of the team could write down the user needs they thought were important.
+* The first thing we did for user needs was that we set up a jam board so that each member of the team could write down the user needs they thought were important.
 
 ![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230118_120048.png?raw=true)
 
@@ -59,26 +59,34 @@ Here is a example of our selected product:
 
 ![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230122_111104.png?raw=true)
 
-Then we researched the source and price of this product and the description of this product. At the same time, we also conducted research on the after-sales evaluation of this product. We extracted the customer needs we need from customer evaluations, and then transformed them into product requirements for our own robot research and development. (For complete research, please see the complete User Needs above)
+* Then we researched the source and price of this product and the description of this product. At the same time, we also conducted research on the after-sales evaluation of this product. We extracted the customer needs we need from customer evaluations, and then transformed them into product requirements for our own robot research and development. (For complete research, please see the complete User Needs above)
+
+* After collecting user requirements, we started to come up with a hundred design ideas based on these user requirements (See Design Ideataion below).
+
+## Design Ideation
+
+* Each of our group came up with 50 design ideas that made up the hundred ideas.
+
+![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230120_101953.png?raw=true)
+
+* Then we think that face-to-face brainstorming will be more effective, while virtual typing or virtual voice brainstorming will be less effective, because when face-to-face, everyone’s efficiency will be higher, and each other’s ideas can actually stimulate each other so as to achieve better results.
+
+* We then roughly categorized the above one hundred ideas into three design concepts.We put together ideas that seemed likely to be assembled together for him, and then tried to design a robot that satisfies these ideas, and we threw him away if we couldn't get together the design ideas.
+
+![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230122_082301.png?raw=true)
+
+Abdulrizak Husein:
+
+![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230120_102516.png?raw=true)
+
+Zhengbin Chen:
+
+![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230122_114244.png?raw=true)
+
+Zhengbin Chen:
+
+![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230122_043408.png?raw=true)
 
 
-## Background
-
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
-
-[link to background](/background)
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
 
 
-## Appendix A:Team Organization
