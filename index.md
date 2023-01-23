@@ -44,7 +44,11 @@ The complete User Needs is here([Appendix B:complete User Needs](https://github.
 
 The first thing we did for user needs was that we set up a jam board so that each member of the team could write down the user needs they thought were important.
 
-![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230118_120048.png)
+![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230118_120048.png?raw=true)
+
+Then we separate them by different functions, "Tech Constraints", "Function", "Interactivity".
+
+![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230122_105314.png?raw=true)
 
 ## Background
 
