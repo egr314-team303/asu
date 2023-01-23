@@ -45,7 +45,7 @@ The complete User Needs is here([Appendix B:complete User Needs](https://github.
 
 ![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230118_120048.png?raw=true)
 
-Then we separate them by different functions, "Tech Constraints", "Function", "Interactivity".
+Then we separated them into 3 seperate functions, "Tech Constraints", "Function", "Interactivity".
 
 ![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230122_105314.png?raw=true)
 
@@ -61,17 +61,17 @@ Here is a example of our selected product:
 
 * Then we researched the source and price of this product and the description of this product. At the same time, we also conducted research on the after-sales evaluation of this product. We extracted the customer needs we need from customer evaluations, and then transformed them into product requirements for our own robot research and development. (For complete research, please see the complete User Needs above)
 
-* After collecting user requirements, we started to come up with a hundred design ideas based on these user requirements (See Design Ideataion below).
+* After collecting user requirements, we began to brainstorm and come up with a hundred design ideas based on these user requirements (See Design Ideation below).
 
 ## Design Ideation
 
-* Each of our group came up with 50 design ideas that made up the hundred ideas.
+* Each person in the group came up with 50 design ideas each that in total came up to 100 ideas.
 
 ![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230120_101953.png?raw=true)
 
-* Then we think that face-to-face brainstorming will be more effective, while virtual typing or virtual voice brainstorming will be less effective, because when face-to-face, everyone’s efficiency will be higher, and each other’s ideas can actually stimulate each other so as to achieve better results.
+* After coming up with the 100 ideas, we then came to together in person to brainstorm and decide which ideas were the best from the 100 ideas. 
 
-* We then roughly categorized the above one hundred ideas into three design concepts.We put together ideas that seemed likely to be assembled together for him, and then tried to design a robot that satisfies these ideas, and we threw him away if we couldn't get together the design ideas.
+* We then took the 100 ideas and came up with three design concepts that best fit. Shown below is the three design concepts. 
 
 ![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230122_082301.png?raw=true)
 
