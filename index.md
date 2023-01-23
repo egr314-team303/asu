@@ -2,7 +2,10 @@
 title: Mobile Environmental Sensings
 ---
 
-# Home
+# Link to our team's Youtube presentation video
+
+* [Checkpoint 1](https://youtu.be/aUGKlzh9vjw)
+* 
 
 ## Title
 
