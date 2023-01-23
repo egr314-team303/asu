@@ -6,10 +6,10 @@ title: Mobile Environmental Sensings
 
 ## Title
 
-*Mobile Environmental Sensings
-*Team 303
-*2023 Spring
-*ASU,EGR314,Travis Kelley
+* Mobile Environmental Sensings
+* Team 303
+* 2023 Spring
+* ASU,EGR314,Travis Kelley
 
 **_Bold and Italic Text_**
 
