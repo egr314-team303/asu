@@ -2,7 +2,7 @@
 EGR 314 Project Report
 Team Charter- 303
 1/22/2019
-ASU,EGR 314,Professor Kelley
+ASU, EGR 314, Professor Kelley
 ---
 
 
@@ -38,33 +38,23 @@ Our mission is to design and construct a robotic device that can demonstrate the
 
 Communication Channels
 	
-Name
-Channel 1
-Channel 2
-Channel 3
-Best Means
-Siavnee Naghichetty
-Phone: 3023100335
-email:snaghich@asu.edu
-discord: Sivanee#4384
-phone
+
 Abdulrizak Husein
-Phone:
-4808624250
-Email:
-ahusein2@asu.edu
-Discord:
-abdul#1684
-Discord
-Zhengbin
-Chen
-Phone：
-4803707787
-Email：
-zchen322@asu.edu
-Discord：
-Zhengbin Chen#9070
-Discord
+
+Phone:4808624250
+
+Email:ahusein2@asu.edu
+
+Discord:abdul#1684
+
+Zhengbin Chen
+
+Phone：4803707787
+
+Email：zchen322@asu.edu
+
+Discord：Zhengbin Chen#9070
+
 
 
 
