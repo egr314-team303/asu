@@ -1,7 +1,10 @@
 ---
-title: "Appendix A Team Organization"
----
+EGR 314 Project Report
 Team Charter- 303
+1/22/2019
+ASU,EGR 314,Professor Kelley
+---
+
 
 Success Metrics
 
