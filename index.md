@@ -50,6 +50,12 @@ Then we separate them by different functions, "Tech Constraints", "Function", "I
 
 ![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230122_105314.png?raw=true)
 
+Finally, we ranked them in order of importance.
+
+![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230122_105829.png?raw=true)
+
+
+
 ## Background
 
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
