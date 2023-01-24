@@ -65,13 +65,13 @@ Here is a example of our selected product:
 
 ## Design Ideation
 
-* Each person in the group came up with 50 design ideas each that in total came up to 100 ideas.
+* The role of each person in the group was to come up with 50 design ideas each that in total came up to 100 ideas that we can potentially use in our design concepts.
 
 ![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230120_101953.png?raw=true)
 
-* After coming up with the 100 ideas, we then came to together in person to brainstorm and decide which ideas were the best from the 100 ideas. 
+* After coming up with the 100 ideas, we then came to together in person to brainstorm and decide which ideas were the best from the 100 ideas. We decided that brainstorming in person was more effective and successful then doing it virtually or seprately because we were able to come up with more ideas and better quality ideas.
 
-* We then took the 100 ideas and came up with three design concepts that best fit. Shown below is the three design concepts. 
+* We then took the 100 ideas and came up with three design concepts that best fit the ideas that we had. Shown below is the three design concepts that we created based of the ideas that we came up with. 
 
 ![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230122_082301.png?raw=true)
 
