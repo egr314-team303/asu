@@ -45,15 +45,15 @@ The complete User Needs is here([Appendix B:complete User Needs](https://github.
 
 ![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230118_120048.png?raw=true)
 
-Then we separated them into 3 seperate functions, "Tech Constraints", "Function", "Interactivity".
+Then we separated them into 3 seperate catergories, "Tech Constraints", "Function", "Interactivity".
 
 ![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230122_105314.png?raw=true)
 
-Finally, we ranked them in order of importance.
+Lastly, we ranked them in order of importance. The proccess in which we ranked them was done by taking the user needs that we came up with and comparing them with customer needs from the voice of the customer.
 
 ![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230122_105829.png?raw=true)
 
-After that we started Benchmarking and started listening to the voice of our Customer.
+After that we started Benchmarking and started listening to the voice of our Customer. 
 
 Here is a example of our selected product:
 
