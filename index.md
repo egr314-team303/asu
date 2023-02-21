@@ -82,6 +82,8 @@ Abdulrizak Husein:
 
 ![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230120_102516.png?raw=true)
 
+This is our team's second concept. This concept includes a temperature sensor, an LED, a microcontroller, a motor, and a battery. This design will be connected to the user through WiFI and the user would be able to turn on the robot through a mobile device. When the user turns on the robot, the user will be able to turn the top piece to the direction of their choice. The LED will show if the system is on and reading the temperature sensor. 
+
 Zhengbin Chen:
 
 ![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230122_114244.png?raw=true)
