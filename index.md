@@ -101,6 +101,8 @@ Zhengbin Chen:
 
 This is our team’s third design, The Box. Just like the previous designs, this design also consists of a temp sensor, a LED, a motor module, a microcontroller and an LED display. The main goal of this design is to make sure that the device is compatible and easy to carry. In this design you can see two different layers. On the outside, the LED, Temp sensor and the microcontroller is present. On the left side, you can see the LED display that displays the amount of temperature, read by the temp sensor and when we go deep inside, we can notice the motor module and the battery module. The battery module also works as a power bank, the can save up energy when charged to be used later. The battery is charged by the power module which is mentioned as a charging port in the diagram and present at the bottom of the device. In the right view, we can see different types of ports which are used to connect to any device to read the temperature. This design also has the feature of connecting to WIFI and bluetooth when needed.
 
+:star:During the discussion, our team decided that since our sensor is a temperature sensor, our motor should be linked to the temperature. Among our three designs, the one with the highest interaction with temperature is our fan design. Whenever the temperature is too high, our fan will start to rotate to reduce the temperature. Further, we will consider adding OLED to display the current temperature.
+
 
 
 
