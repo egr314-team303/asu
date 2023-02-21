@@ -59,6 +59,9 @@ Here is a example of our selected product:
 
 ![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230122_111104.png?raw=true)
 
+:star: From the example of our selected product,We found out that Products have longer lifespan, power efficient and power supplies need to be replaceable are really important.
+
+
 * Then we researched the source and price of this product and the description of this product. At the same time, we also conducted research on the after-sales evaluation of this product. We extracted the customer needs we need from customer evaluations, and then transformed them into product requirements for our own robot research and development. (For complete research, please see the complete User Needs above)
 
 * After collecting user requirements, we began to brainstorm and come up with a hundred design ideas based on these user requirements (See Design Ideation below).
