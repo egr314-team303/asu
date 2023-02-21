@@ -61,6 +61,11 @@ Here is a example of our selected product:
 
 :star: From the example of our selected product,We found out that Products have longer lifespan, power efficient and power supplies need to be replaceable are really important.
 
+And here is the user story we collected &#10084:
+
+William is a father with two children. He wants to give his children an intellectual education of engineers at an early stage. He needs a robot that can attract children's attention with interesting performances, and at the same time has monitoring functions (such as temperature, humidity, wind, atmospheric pressure, etc.)
+
+The user story proves that how necessary this product in the society.
 
 * Then we researched the source and price of this product and the description of this product. At the same time, we also conducted research on the after-sales evaluation of this product. We extracted the customer needs we need from customer evaluations, and then transformed them into product requirements for our own robot research and development. (For complete research, please see the complete User Needs above)
 
@@ -88,9 +93,14 @@ Zhengbin Chen:
 
 ![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230122_114244.png?raw=true)
 
+This is our team's first design concept, which is a car-shaped patrol temperature monitoring robot, which has temperature sensors, LEDs, four wheels, motors, and gears. Based on this design, it can be connected to the user with WIFI, so that the user can see the temperature change anywhere. At the same time, we hope that the user can also use the mobile phone to remotely control the direction of the car, (this is also hoped for Use the gear to change the direction or use four motors to control different directions), so that users can remotely monitor where they want to monitor, and can go to any place they want to monitor. At the same time, we also hope that users can set the "alarm" temperature by themselves, so that once the temperature reaches the alarm temperature, the LED will flash to warn the user, and an alarm will also be displayed on the mobile phone.
+
 Zhengbin Chen:
 
 ![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230122_043408.png?raw=true)
+
+This is our team’s third design, The Box. Just like the previous designs, this design also consists of a temp sensor, a LED, a motor module, a microcontroller and an LED display. The main goal of this design is to make sure that the device is compatible and easy to carry. In this design you can see two different layers. On the outside, the LED, Temp sensor and the microcontroller is present. On the left side, you can see the LED display that displays the amount of temperature, read by the temp sensor and when we go deep inside, we can notice the motor module and the battery module. The battery module also works as a power bank, the can save up energy when charged to be used later. The battery is charged by the power module which is mentioned as a charging port in the diagram and present at the bottom of the device. In the right view, we can see different types of ports which are used to connect to any device to read the temperature. This design also has the feature of connecting to WIFI and bluetooth when needed.
+
 
 
 
