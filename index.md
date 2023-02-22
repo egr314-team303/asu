@@ -39,7 +39,7 @@ Our mission is to design and construct a robotic device that can demonstrate the
 
 ## User Needs,Benchmarking,and Requirements
 
-The complete User Needs is here([Appendix B:complete User Needs](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/User%20Needs%20and%20Benchmarking%20303.pdf?raw=true)) <a href="User Needs and Benchmarking 303.pdf">Link text</a>
+The complete User Needs is here<a href="User Needs and Benchmarking 303.pdf">Complete User Needs and Benchmarking</a>
 
 * The first thing we did for user needs was that we set up a jam board so that each member of the team could write down the user needs they thought were important.
 
