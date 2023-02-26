@@ -110,6 +110,10 @@ Team 303 togeather worked on the component selection and came up with the best f
 
 ## Hardware Proposal
 
+Our Hardware design was split into 3 subsystems for each group member to work on. The subsytems that the members worked on include: Voltage regulater and PIC, Temperture Sensor, and Motor Driver and Motor. The power regulater subsystem The Regulator subsystem has a barrel jack connector input .  The 3A max power draw will never be met or exceeded in normal operating conditions, so a 3A fuse will help protect the circuit in a worst case scenario.  The 12V is stepped down and regulated to 3.3V for the PIC, sensor, motor controller, and motor to be powered by. The PIC is also wired with global tags to each other subsystem. The Temperature Sensor subsystem contains the temperature sensor and conditioning circuit. The Motor Subsystem contains both the motor and its motor controller. The motor is controlled by 4 inputs from the PIC via global tags. The motor and controller are powered off of 3.3V which is enough for the motor to turn at an acceptable speed for our intended use.
+
+It satisfies the product requirements by having the motor driver and the tempeture sensor to both be I2C. It also satisfies it by being able to capture enviromental conditions.
+
 ## Software Proposal
 
 
