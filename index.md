@@ -104,15 +104,12 @@ This is our team’s third design, The Box. Just like the previous designs, this
 :star:During the discussion, our team decided that since our sensor is a temperature sensor, our motor should be linked to the temperature. Among our three designs, the one with the highest interaction with temperature is our fan design. Whenever the temperature is too high, our fan will start to rotate to reduce the temperature. Further, we will consider adding OLED to display the current temperature.
 
 ## Block Diagram
-![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Block%20Diagram-314.drawio%20(1).png?raw=true)
-
-:star:First we determine the functions we need (motor, temperature sensor, WIFI module, ICSP), and then we find the pins we need according to the datasheet of the Microcontroller we choose.
-
-:star:We have Microcontroller to control WIFI Module, Temperature Sensor and Motor driver. Then there is ICSP pin interface to program through Cadence.
 
 ## Component Selection
 
 ## Hardware Proposal
+
+Our Hardware design was split into 3 subsystems for each group member to work on. The subsytems that the members worked on include: Voltage regulater and PIC, Temperture Sensor, and Motor Driver and Motor. 
 
 ## Software Proposal
 
