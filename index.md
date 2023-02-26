@@ -103,7 +103,13 @@ This is our team’s third design, The Box. Just like the previous designs, this
 
 :star:During the discussion, our team decided that since our sensor is a temperature sensor, our motor should be linked to the temperature. Among our three designs, the one with the highest interaction with temperature is our fan design. Whenever the temperature is too high, our fan will start to rotate to reduce the temperature. Further, we will consider adding OLED to display the current temperature.
 
+## Block Diagram
 
+## Component Selection
+
+## Hardware Proposal
+
+## Software Proposal
 
 
 
