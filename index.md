@@ -109,6 +109,8 @@ This is our team’s third design, The Box. Just like the previous designs, this
 
 ## Hardware Proposal
 
+
+
 ## Software Proposal
 
 
