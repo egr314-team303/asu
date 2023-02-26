@@ -106,7 +106,7 @@ This is our team’s third design, The Box. Just like the previous designs, this
 ## Block Diagram
 
 ## Component Selection
-Team 303 togeather worked on the component selection and came up with the best fit for our subsystems togeather. 
+Team 303 together worked on the component selection and came up with the best fit for our subsystems together. We first decided upon who is taking up which subsystem and split your component selection into three different sectors. Every individual in Team 303 worked seperately on their component selection at first and found the top three options based every single details, such as its voltage capacity, price, its power supply etc from the datasheet, compared all the three once again to finalise with one product. 
 
 ## Hardware Proposal
 
