@@ -125,6 +125,8 @@ Our Hardware design was split into 3 subsystems for each group member to work on
 It satisfies the product requirements by having the tempeture sensor to be I2C and the motor driver to be SPI. It also satisfies it by being able to capture enviromental conditions.
 
 ## Software Proposal
+![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Software%20Proposal.drawio.png?raw=true)
 
+We initialize the system first, then set up all hardware registers, and establish our communication (i2C for temperature sensor, spi for motor driver). All this is to make our function successful.
 
-
+Our software is mainly to check whether a dangerous temperature has been set. Once the set temperature is reached, our motor will rotate with the fan blades (thus achieving a cooling effect).
