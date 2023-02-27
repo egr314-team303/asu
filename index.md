@@ -95,7 +95,7 @@ Zhengbin Chen:
 
 This is our team's first design concept, which is a car-shaped patrol temperature monitoring robot, which has temperature sensors, LEDs, four wheels, motors, and gears. Based on this design, it can be connected to the user with WIFI, so that the user can see the temperature change anywhere. At the same time, we hope that the user can also use the mobile phone to remotely control the direction of the car, (this is also hoped for Use the gear to change the direction or use four motors to control different directions), so that users can remotely monitor where they want to monitor, and can go to any place they want to monitor. At the same time, we also hope that users can set the "alarm" temperature by themselves, so that once the temperature reaches the alarm temperature, the LED will flash to warn the user, and an alarm will also be displayed on the mobile phone.
 
-Zhengbin Chen:
+Sivanee Naghichetty Prem Kumar:
 
 ![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230122_043408.png?raw=true)
 
