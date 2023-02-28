@@ -61,7 +61,7 @@ Here is a example of our selected product:
 
 :star: From the example of our selected product,We found out that Products have longer lifespan, power efficient and power supplies need to be replaceable are really important.
 
-And here is the user story we collected &#10084:
+And here is the user story we collected 
 
 William is a father with two children. He wants to give his children an intellectual education of engineers at an early stage. He needs a robot that can attract children's attention with interesting performances, and at the same time has monitoring functions (such as temperature, humidity, wind, atmospheric pressure, etc.)
 
