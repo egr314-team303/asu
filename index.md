@@ -104,13 +104,29 @@ This is our team’s third design, The Box. Just like the previous designs, this
 :star:During the discussion, our team decided that since our sensor is a temperature sensor, our motor should be linked to the temperature. Among our three designs, the one with the highest interaction with temperature is our fan design. Whenever the temperature is too high, our fan will start to rotate to reduce the temperature. Further, we will consider adding OLED to display the current temperature.
 
 ## Block Diagram
-![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Block%20Diagram-314.drawio%20(1).png?raw=true)
+![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Block%20Diagram-314.drawio.png?raw=true)
 
 :star:First we determine the functions we need (motor, temperature sensor, WIFI module, ICSP), and then we find the pins we need according to the datasheet of the Microcontroller we choose.
 
 :star:We have Microcontroller to control WIFI Module, Temperature Sensor and Motor driver. Then there is ICSP pin interface to program through Cadence.
 ## Component Selection
 <a href="Component Selection.pdf">Complete Component Selection</a>
+
+![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Voltage%20Rgulator.png?raw=true)
+
+Because the Third one has the lowest price and the highest availability. At the same time, it meets the requirements of our project, safe to use, can withstand severe temperature changes, stable 3.3V output and 1A safe current output.It’s surface amount.
+
+![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Power%20Source.png?raw=true)
+
+The team opted to use the AC/DC 12V power supply due to its ease of use and consistent 12V supply. The loss of portability is made up for by the convenience of not needing to replace batteries after repeated usage.
+
+![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Temperature%20Sensor.png?raw=true)
+
+My reason for selecting option 1 is that it is easier to use because we will be using it in class. It is also the cheapest option out of the three options. It also meets the I2C and surface mount requirements. 
+
+![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Motor%20Driver.png?raw=true)
+
+Option 1 is the better suite compare to other two, due to its efficiency even when the cost is high
 
 First of all, we have all of our electrical component be surface amount.
 
