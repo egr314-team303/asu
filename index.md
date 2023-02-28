@@ -126,7 +126,9 @@ My reason for selecting option 1 is that it is easier to use because we will be 
 
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Motor%20Driver.png?raw=true)
 
-Option 1 is the better suite compare to other two, due to its efficiency even when the cost is high
+Option 1 is the better suite compare to other two, due to its efficiency even when the cost is high\
+
+![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/POWER%20BUDGET.png?raw=true)
 
 First of all, we have all of our electrical component be surface amount.
 
