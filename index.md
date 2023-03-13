@@ -133,11 +133,13 @@ My reason for selecting option 1 is that it is easier to use because we will be 
 
 Option 1 is the better suite compare to other two, due to its efficiency even when the cost is high\
 
+<a href="microcontroller-selection-table.docx (2).pdf">Complete microcontroller Selection is here</a>
+
 This is the PIC that we choose:
 
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/medium-PIC18F27Q10-SOIC-28.png?raw=true)
 
-We compared three PICs, and after comparing the benefits, we finally decided to use this PIC because <a href="microcontroller-selection-table.docx (2).pdf">Complete microcontroller Selection is here</a>:
+We compared three PICs, and after comparing the benefits, we finally decided to use this PIC because :
 
 This is very practical, and the price is affordable, and the delivery time is very timely. At the same time, it also meets the needs of all course projects: with i2c communication, with UART, suitable for MPlab IDE, and suitable for MCC Melody. Also the In-System Programming Capability and Type is ICSP which fulfills the project requirement. There is also a complete programming tutorial for the temperature sensor, so our team thought this would be the best choice.
 
