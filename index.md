@@ -162,6 +162,12 @@ Our Hardware design was split into 3 subsystems for each group member to work on
 
 It satisfies the product requirements by having the tempeture sensor to be I2C and the motor driver to be SPI. It also satisfies it by being able to capture enviromental conditions.
 
+And here is our Bill of Materials:
+
+![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Bill%20of%20Materials.png?raw=true)
+
+We list out all the Materials that we gonna use and also their Vendor link , Datasheet Link, Supplier,Manufacturer,Manufacturer Part and Schematic Reference Designators.
+
 ## Software Proposal
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Software%20Proposal.drawio.png?raw=true)
 
