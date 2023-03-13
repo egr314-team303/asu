@@ -109,7 +109,7 @@ Then we have our final selected design:
 ## Block Diagram
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Block%20Diagram-314.drawio%20(2).png?raw=true)
 
-:star:First we determine the functions we need (motor, temperature sensor, WIFI module, ICSP), and then we find the pins we need according to the datasheet of the Microcontroller we choose.
+:star:First we determine the functions we need (motor driver, temperature sensor, WIFI module, ICSP), and then we find the pins we need according to the datasheet of the Microcontroller we choose. The subsystems meets all the product requirment. The motor driver meets the SPI and actuator reqiurment and the tempeture sensor meets the I2C requirment.  
 
 :star:We have Microcontroller to control WIFI Module, Temperature Sensor and Motor driver. Then there is ICSP pin interface to program through Cadence.
 
@@ -119,7 +119,7 @@ Then we have our final selected design:
 
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Voltage%20Rgulator.png?raw=true)
 
-Because the Third one has the lowest price and the highest availability. At the same time, it meets the requirements of our project, safe to use, can withstand severe temperature changes, stable 3.3V output and 1A safe current output.It’s surface amount.
+This Voltage Regulator has the lowest price and the highest availability. At the same time, it meets the requirements of our project, safe to use, can withstand severe temperature changes, stable 3.3V output and 1A safe current output.As well being surface mount.
 
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Power%20Source.png?raw=true)
 
@@ -127,11 +127,11 @@ The team opted to use the AC/DC 12V power supply due to its ease of use and cons
 
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Temperature%20Sensor.png?raw=true)
 
-My reason for selecting option 1 is that it is easier to use because we will be using it in class. It is also the cheapest option out of the three options. It also meets the I2C and surface mount requirements. 
+My reason for selecting this Temp. Sensor is that it is easier to use because we will be using it in class. It is also the cheapest option out of the three options. It also meets the I2C and surface mount requirements. 
 
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Motor%20Driver.png?raw=true)
 
-Option 1 is the better suite compare to other two, due to its efficiency even when the cost is high\
+This Motor driver is the better suite compare to other ones we viewed, due to its efficiency even when the cost is higher than the others. It also meets the SPI and Surface mount requirment.
 
 <a href="microcontroller-selection-table.docx (2).pdf">Complete microcontroller Selection is here</a>
 
