@@ -133,7 +133,7 @@ Option 1 is the better suite compare to other two, due to its efficiency even wh
 
 First of all, we have all of our electrical component be surface amount.
 
-![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/POWER%20BUDGET.png?raw=true)
+![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Power%20budget.png?raw=true)
 
 We found the required voltage and the required power consumption from the data sheets of the respective components, and then subtracted the voltage consumed by these components from our power source to roughly calculate whether our power source can support the voltage of these components consume.
 
