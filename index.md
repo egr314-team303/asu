@@ -112,7 +112,9 @@ Then we have our final selected design:
 :star:First we determine the functions we need (motor, temperature sensor, WIFI module, ICSP), and then we find the pins we need according to the datasheet of the Microcontroller we choose.
 
 :star:We have Microcontroller to control WIFI Module, Temperature Sensor and Motor driver. Then there is ICSP pin interface to program through Cadence.
+
 ## Component Selection
+
 <a href="Component Selection.pdf">Complete Component Selection</a>
 
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Voltage%20Rgulator.png?raw=true)
@@ -130,6 +132,16 @@ My reason for selecting option 1 is that it is easier to use because we will be 
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Motor%20Driver.png?raw=true)
 
 Option 1 is the better suite compare to other two, due to its efficiency even when the cost is high\
+
+This is the PIC that we choose:
+
+![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/medium-PIC18F27Q10-SOIC-28.png?raw=true)
+
+We compared three PICs, and after comparing the benefits, we finally decided to use this PIC because <a href="microcontroller-selection-table.docx (2).pdf">Complete microcontroller Selection is here</a>:
+
+This is very practical, and the price is affordable, and the delivery time is very timely. At the same time, it also meets the needs of all course projects: with i2c communication, with UART, suitable for MPlab IDE, and suitable for MCC Melody. Also the In-System Programming Capability and Type is ICSP which fulfills the project requirement. There is also a complete programming tutorial for the temperature sensor, so our team thought this would be the best choice.
+
+
 
 First of all, we have all of our electrical component be surface amount.
 
