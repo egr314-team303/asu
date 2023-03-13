@@ -131,9 +131,11 @@ My reason for selecting option 1 is that it is easier to use because we will be 
 
 Option 1 is the better suite compare to other two, due to its efficiency even when the cost is high\
 
+First of all, we have all of our electrical component be surface amount.
+
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/POWER%20BUDGET.png?raw=true)
 
-First of all, we have all of our electrical component be surface amount.
+We found the required voltage and the required power consumption from the data sheets of the respective components, and then subtracted the voltage consumed by these components from our power source to roughly calculate whether our power source can support the voltage of these components consume.
 
 Team 303 together worked on the component selection and came up with the best fit for our subsystems together. We first decided upon who is taking up which subsystem and split your component selection into three different sectors. Every individual in Team 303 worked seperately on their component selection at first and found the top three options based every single details, such as its voltage capacity, price, its power supply etc from the datasheet, compared all the three once again to finalise with one product. Later again when it was doe, we all met once again to discuss on the finalised product. 
 
