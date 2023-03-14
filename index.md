@@ -101,7 +101,7 @@ Sivanee Naghichetty Prem Kumar:
 
 This is our team’s third design, The Box. Just like the previous designs, this design also consists of a temp sensor, a LED, a motor module, a microcontroller and an LED display. The main goal of this design is to make sure that the device is compatible and easy to carry. In this design you can see two different layers. On the outside, the LED, Temp sensor and the microcontroller is present. On the left side, you can see the LED display that displays the amount of temperature, read by the temp sensor and when we go deep inside, we can notice the motor module and the battery module. The battery module also works as a power bank, the can save up energy when charged to be used later. The battery is charged by the power module which is mentioned as a charging port in the diagram and present at the bottom of the device. In the right view, we can see different types of ports which are used to connect to any device to read the temperature. This design also has the feature of connecting to WIFI and bluetooth when needed.
 
-:star:During the discussion, our team decided that since our idea is focused on reducing temperature, our motor should be linked to the temperature sensor, making it a fan like structure that is portabl. Among our three designs, the one with the highest interaction with temperature is our fan design. Whenever the surrounding temperature is higher than the room temperature, our fan will start to rotate to reduce the temperature. Further, we also consider adding OLED to display the current temperature.
+:star:During the discussion, our team decided that since our idea is focused on reducing temperature, and that our motor should be linked to the temperature sensor. This made us to come to a conclusion of a fan like structure that is portabl. Whlie brainstroming our three designs, we tried to combine them and figured that the one with the highest interaction with temperature is our fan design. Whenever the surrounding temperature is higher than the room temperature, our fan will start to rotate to reduce the temperature. Further, we also consider adding OLED to display the room temperature.
 
 Then we have our final selected design:
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Final%20selected%20design.png?raw=true)
@@ -117,34 +117,34 @@ Then we have our final selected design:
 
 <a href="Component Selection.pdf">Complete Component Selection</a>
 
-# Voltage Regulator
+## Voltage Regulator
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Voltage%20Rgulator.png?raw=true)
 
 This Voltage Regulator has the lowest price and the highest availability. At the same time, it meets the requirements of our project, safe to use, can withstand severe temperature changes, stable 3.3V output and 1A safe current output.As well being surface mount.
 
-# Power Supply
+## Power Supply
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Power%20Source.png?raw=true)
 
 The team opted to use the AC/DC 12V power supply due to its ease of use and consistent 12V supply. The loss of portability is made up for by the convenience of not needing to replace batteries after repeated usage.
 
-# Temperature Sensor
+## Temperature Sensor
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Temperature%20Sensor.png?raw=true)
 
 The reason for selecting this Temp. Sensor is that it is easier to use as are using it in class. It is also the cheapest option out of the three options. It also meets the I2C and surface mount requirements. 
 
-# Motor Driver
+## Motor Driver
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Motor%20Driver.png?raw=true)
 
 This Motor driver is the better suite compare to other ones we viewed, due to its efficiency even when the cost is higher than the others. It also meets the SPI and Surface mount requirment.
 
-# The PIC
+## Mictocontroller
 <a href="microcontroller-selection-table.docx (2).pdf">Complete microcontroller Selection is here</a>
 
 This is the PIC that we choose:
 
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/medium-PIC18F27Q10-SOIC-28.png?raw=true)
 
-We compared three PICs, and after comparing the benefits, we finally decided to use this PIC because :
+We compared three PICs, and after comparing the benefits, we finally decided to use this PIC because:
 
 This is very practical, and the price is affordable, and the delivery time is very timely. At the same time, it also meets the needs of all course projects: with i2c communication, with UART, suitable for MPlab IDE, and suitable for MCC Melody. Also the In-System Programming Capability and Type is ICSP which fulfills the project requirement. There is also a complete programming tutorial for the temperature sensor, so our team thought this would be the best choice.
 
