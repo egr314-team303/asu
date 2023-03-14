@@ -117,22 +117,27 @@ Then we have our final selected design:
 
 <a href="Component Selection.pdf">Complete Component Selection</a>
 
+# Voltage Regulator
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Voltage%20Rgulator.png?raw=true)
 
 This Voltage Regulator has the lowest price and the highest availability. At the same time, it meets the requirements of our project, safe to use, can withstand severe temperature changes, stable 3.3V output and 1A safe current output.As well being surface mount.
 
+# Power Supply
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Power%20Source.png?raw=true)
 
 The team opted to use the AC/DC 12V power supply due to its ease of use and consistent 12V supply. The loss of portability is made up for by the convenience of not needing to replace batteries after repeated usage.
 
+# Temperature Sensor
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Temperature%20Sensor.png?raw=true)
 
-My reason for selecting this Temp. Sensor is that it is easier to use because we will be using it in class. It is also the cheapest option out of the three options. It also meets the I2C and surface mount requirements. 
+The reason for selecting this Temp. Sensor is that it is easier to use as are using it in class. It is also the cheapest option out of the three options. It also meets the I2C and surface mount requirements. 
 
+# Motor Driver
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Motor%20Driver.png?raw=true)
 
 This Motor driver is the better suite compare to other ones we viewed, due to its efficiency even when the cost is higher than the others. It also meets the SPI and Surface mount requirment.
 
+# The PIC
 <a href="microcontroller-selection-table.docx (2).pdf">Complete microcontroller Selection is here</a>
 
 This is the PIC that we choose:
