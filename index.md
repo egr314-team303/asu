@@ -161,7 +161,7 @@ Team 303 together worked on the component selection and came up with the best fi
 
 
 ## Hardware Proposal
-![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/TEAM%20SCHEMATIC.png?raw=true)
+![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Team%20Schematic.png?raw=true)
 
 Our Hardware design was split into 3 subsystems for each group member to work on. The subsytems that the members worked on include: Voltage regulater and PIC, Temperture Sensor, and Motor Driver and Motor. The power regulater subsystem The Regulator subsystem has a barrel jack connector input .  The 3A max power draw will never be met or exceeded in normal operating conditions, so a 3A fuse will help protect the circuit in a worst case scenario.  The 12V is stepped down and regulated to 3.3V for the PIC, sensor, motor controller, and motor to be powered by. The PIC is also wired with global tags to each other subsystem. The Temperature Sensor subsystem contains the temperature sensor and conditioning circuit. The Motor Subsystem contains both the motor and its motor controller. The motor is controlled by 4 inputs from the PIC via global tags. The motor and controller are powered off of 3.3V which is enough for the motor to turn at an acceptable speed for our intended use. It also has LEDs and Test point for debugging and a WiFi Module which is esp 32 so the user can connect to our device through Bluetooth and Monitor real-time temperature through mobile phone. We use ICSP pin for programming our pic. 
 
