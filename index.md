@@ -103,8 +103,9 @@ This is our team’s third design, The Box. Just like the previous designs, this
 
 :star:During the discussion, our team decided that since our idea is focused on reducing temperature, and that our motor should be linked to the temperature sensor. This made us to come to a conclusion of a fan like structure that is portabl. Whlie brainstroming our three designs, we tried to combine them and figured that the one with the highest interaction with temperature is our fan design. Whenever the surrounding temperature is higher than the room temperature, our fan will start to rotate to reduce the temperature. In the current design, the PCB will be inside the body of the fan and the motor will be at the top, connected to the fan propller and further, we also consider adding OLED to display the room temperature.
 
-Then we have our final selected design:
-![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Final%20selected%20design.png?raw=true)
+Selected Design:
+
+![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230120_102516.png?raw=true)
 
 ## Block Diagram
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Block%20Diagram-314.drawio%20(2).png?raw=true)
