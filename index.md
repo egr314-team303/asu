@@ -108,7 +108,7 @@ Selected Design:
 ![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230120_102516.png?raw=true)
 
 ## Block Diagram
-![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Block%20Diagram-314.drawio%20(2).png?raw=true)
+![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Block%20Diagram-314.drawio.png?raw=true)
 
 :star:The team 303 came togeather to discuss about the block diagram and first we determined the functions we need (motor driver, temperature sensor, WIFI module, ICSP), and then we find the pins we need according to the datasheet of the Microcontroller we choose. We splitted the subsystems among ourselfs and found that The subsystems meets all the product requirment. The motor driver meets the SPI and actuator reqiurment and the tempeture sensor meets the I2C requirment. The temperature and the motor subsystems are connnected to the microcontroller. When the temperature sensor reads the temperature, it sends signal to the motor driver which 
 then adjusts the speed depending upon it. The motor driver is SPI and connected to external power supply. The temperature sensor is I2C and is connected to a 12V to 3.3V voltage regulator which is also connected to the wall supply. 
