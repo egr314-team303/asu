@@ -61,6 +61,23 @@ Here is a example of our selected product:
 
 :star: From the example of our selected product,We found out that Products have longer lifespan, power efficient and power supplies need to be replaceable are really important.
 
+## Product Requirement
+
+I have only listed the most important aspects here (importance ranked from P1 to P10, with P10 being the most important). The complete product requirement can be found at the above "Complete User Needs and Benchmarking" link.
+
+Aspects
+1.   	Product Design
+   * The product will utilize the Microchip microcontroller as the main controller for sensor inputs and motors (P10)
+   * The product will adapt to two (2) sensor inputs connected to the microcontroller (P10)
+   
+2.   	Functionality
+ * The product will feature a rechargeable battery life of over one (1) hour        （P10）
+ 
+3.   	Interactivity
+* Product should provide more than one action for interacting with visitors.     （P10）
+* Product should have multiple choices in the interaction process for users.  （P10）
+* Product should have multiple outcomes based on previous choices.（P10）
+
 And here is the user story we collected 
 
 William is a father with two children. He wants to give his children an intellectual education of engineers at an early stage. He needs a robot that can attract children's attention with interesting performances, and at the same time has monitoring functions (such as temperature, humidity, wind, atmospheric pressure, etc.)
@@ -68,6 +85,14 @@ William is a father with two children. He wants to give his children an intellec
 The user story proves that how necessary this product in the society.
 
 * Then we researched the source and price of this product and the description of this product. At the same time, we also conducted research on the after-sales evaluation of this product. We extracted the customer needs we need from customer evaluations, and then transformed them into product requirements for our own robot research and development. (For complete research, please see the complete User Needs above)
+
+Open Question
+
+Can the product be designed with only recyclable materials in mind?
+
+Can we incorporate in the design the ability to use a mobile phone to remotely control the movement of the product?
+What are some examples of modules that can be interchanged within our design?
+Does our actuator have to be connected to the sensor? Or can it only be connected with the microcontroller?
 
 * After collecting user requirements, we began to brainstorm and come up with a hundred design ideas based on these user requirements (See Design Ideation below).
 
