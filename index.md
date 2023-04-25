@@ -113,11 +113,11 @@ control the product's movement.
 
 But in our case, due to the time constrain, we didn't approach to this function.
 
-What are some examples of modules that can be interchanged within our design?
+* What are some examples of modules that can be interchanged within our design?
 
 As for examples of interchangeable modules, some possibilities might include different types of sensors, actuators, or power sources. For example, if the product is designed for outdoor use, different power sources could be used depending on the availability of sunlight or other renewable energy sources. Alternatively, different sensors could be swapped in or out depending on the specific use case of the product.
 
-Does our actuator have to be connected to the sensor? Or can it only be connected with the microcontroller?
+* Does our actuator have to be connected to the sensor? Or can it only be connected with the microcontroller?
 
 Regarding the actuator and sensor connection, it depends on the specific requirements of the product's design
 But in our case, the actuator is not connect to the sensor, it only connect to the microcontroller.
@@ -216,7 +216,7 @@ Team 303 together worked on the component selection and came up with the best fi
 
 
 
-## Hardware Proposal
+## Final Hardware Implementation
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Team%20Schematic.png?raw=true)
 
 Our Hardware design was split into 3 subsystems for each group member to work on. The subsytems that the members worked on include: Voltage regulater and PIC, Temperture Sensor, and Motor Driver and Motor. The power regulater subsystem The Regulator subsystem has a barrel jack connector input .  The 3A max power draw will never be met or exceeded in normal operating conditions, so a 3A fuse will help protect the circuit in a worst case scenario.  The 12V is stepped down and regulated to 3.3V for the PIC, sensor, motor controller, and motor to be powered by. The PIC is also wired with global tags to each other subsystem. The Temperature Sensor subsystem contains the temperature sensor and conditioning circuit. The Motor Subsystem contains both the motor and its motor controller. The motor is controlled by 4 inputs from the PIC via global tags. The motor and controller are powered off of 3.3V which is enough for the motor to turn at an acceptable speed for our intended use. It also has LEDs and Test point for debugging and a WiFi Module which is esp 32 so the user can connect to our device through Bluetooth and Monitor real-time temperature through mobile phone. We use ICSP pin for programming our pic. 
@@ -229,7 +229,7 @@ And here is our Bill of Materials:
 
 We list out all the Materials that we gonna use and also their Vendor link , Datasheet Link, Supplier,Manufacturer,Manufacturer Part and Schematic Reference Designators.
 
-## Software Proposal
+## Final Software Implementation
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Software%20Proposal.drawio.png?raw=true)
 
 We initialize the system first, then set up all hardware registers, and establish our communication (i2C for temperature sensor, spi for motor driver). All this is to make our function successful.
