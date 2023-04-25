@@ -92,11 +92,35 @@ The user story proves that how necessary this product in the society.
 
 Open Question
 
-Can the product be designed with only recyclable materials in mind?
+* Can the product be designed with only recyclable materials in mind?
 
-Can we incorporate in the design the ability to use a mobile phone to remotely control the movement of the product?
+Yes, it is possible to design a product with only recyclable materials in mind. Designing
+a product with recyclable materials can help reduce the environmental impact of the
+product and increase its sustainability. By using recyclable materials, the product can be
+easily disassembled and the materials can be reused or repurposed, reducing waste
+and the need for new raw materials. Additionally, using recyclable materials can help
+increase the product's longevity and reduce its overall environmental footprint. It is
+important for designers to consider the entire lifecycle of a product, from its production
+to its disposal, and to design with sustainability in mind.
+
+* Can we incorporate in the design the ability to use a mobile phone to remotely control the movement of the product?
+
+Yes, it is possible to incorporate mobile phone control into the design of a product. This
+would involve integrating a wireless communication module such as Bluetooth or Wi-Fi
+into the product's control system. Users could then download a mobile app that
+communicates with the product via the wireless module, enabling them to remotely
+control the product's movement.
+
+But in our case, due to the time constrain, we didn't approach to this function.
+
 What are some examples of modules that can be interchanged within our design?
+
+As for examples of interchangeable modules, some possibilities might include different types of sensors, actuators, or power sources. For example, if the product is designed for outdoor use, different power sources could be used depending on the availability of sunlight or other renewable energy sources. Alternatively, different sensors could be swapped in or out depending on the specific use case of the product.
+
 Does our actuator have to be connected to the sensor? Or can it only be connected with the microcontroller?
+
+Regarding the actuator and sensor connection, it depends on the specific requirements of the product's design
+But in our case, the actuator is not connect to the sensor, it only connect to the microcontroller.
 
 * After collecting user requirements, we began to brainstorm and come up with a hundred design ideas based on these user requirements (See Design Ideation below).
 
@@ -211,3 +235,51 @@ We list out all the Materials that we gonna use and also their Vendor link , Dat
 We initialize the system first, then set up all hardware registers, and establish our communication (i2C for temperature sensor, spi for motor driver). All this is to make our function successful.
 
 Our software is mainly to check whether a dangerous temperature has been set. Once the set temperature is reached, our motor will rotate with the fan blades (thus achieving a cooling effect).
+
+## Lesson Learned
+
+● Collaboration is necessary: Working collaboratively with team members is
+necessary to ensure that the project meets all requirements and is successful.
+● Attention to detail is crucial: In egr 314, small details can have a significant
+impact on the success of a project, so attention to detail is crucial.
+● Effective communication is key: Clear and consistent communication among
+team members is essential to ensure that everyone is on the same page and
+working towards the same goals.
+● Planning and organization are critical: Developing a detailed project plan and
+timeline is essential to ensuring that the project stays on track and deadlines are
+met.
+● Problem-solving is a valuable skill: Being able to identify and solve problems
+quickly and efficiently is a critical skill in engineering projects.
+● Flexibility is key: Plans and designs may need to be adapted or changed as the
+project progresses, and being able to adapt to new challenges is essential.
+● Thorough testing is essential: Testing is a critical part of the engineering process,
+and it is important to conduct thorough testing to ensure that the product or
+design functions as intended.
+● Iteration is part of the process: Often, multiple iterations and revisions are
+necessary to create a successful design or product.
+● Documentation is important. Documenting the project thoroughly is necessary to
+ensure that future team members can understand it and build on it.
+● Continuous learning is valuable. This project will constantly evolve, and staying
+up-to-date with new technologies and techniques is important to stay
+competitive and produce high-quality work.
+
+## Recommendations for future students
+
+● Be proactive: Take the initiative to seek out additional resources if you're
+struggling with the material. Ask your professor or TA for extra help, and don't
+hesitate to form study groups with your classmates. Being proactive about your
+learning can make a big difference in your success in the class.
+● Stay organized: This class will likely require a lot of reading and writing
+assignments, so it's essential to stay organized. Develop a system for keeping
+track of due dates, notes, and other important information.
+● Enhance your technical writing abilities: Writing technical reports and
+presentations is a critical part of EGR 314. Improving your technical writing skills
+will help you communicate your ideas more effectively in this class.
+● Familiarize yourself with engineering software and tools commonly used in the
+field, such as Cadence. Practice using these tools before the start of the course
+to gain confidence and proficiency.
+● Be curious and engaged in the subject matter, and don't be afraid to ask
+questions and seek out additional resources to deepen your understanding.
+Engage with your classmates and professors, and take advantage of
+opportunities.
+
