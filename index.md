@@ -14,7 +14,7 @@ Title: Mobile Environmental Sensings
 8. [Component Selection](https://egr314-team303.github.io/#component-selection)
 9. [Power Budget](https://egr314-team303.github.io/#power-budget)
 10. [Final Hardware Implementation](https://egr314-team303.github.io/#final-hardware-implementation)
-11. [Final Software Implementation](https://egr314-team303.github.io/#final-software-implementation-see-appendix-a-for-mqtt-topic-table-appendix-b-for-codeappendix-c-for-mcc-configuration)
+11. [Final Software Implementation](https://egr314-team303.github.io/#final-software-implementation)
 12. [Lesson Learned](https://egr314-team303.github.io/#lesson-learned)
 13. [Recommdations for future students](https://egr314-team303.github.io/#recommendations-for-future-students)
 14. [MQTT Topic Table](https://egr314-team303.github.io/#appendix-a)
