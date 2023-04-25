@@ -345,9 +345,96 @@ Engage with your classmates and professors, and take advantage of
 opportunities.
 
 ## Appendix A 
+![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/MQTT%20Table.png?raw=true)
 
 ## Appendix B
+#include "mcc_generated_files/mcc.h"
+//#include <stdio.h>
+//#include <stdint.h>
+//#include <stdbool.h>
+#include "mcc_generated_files/examples/i2c2_master_example.h"
+#include "mcc_generated_files/i2c2_master.h"
 
+/*
+                         Main application
+ */
+void main(void)
+{
+    SYSTEM_Initialize();
+    SPI1_Initialize();
+    INTERRUPT_GlobalInterruptEnable();
+
+    // Enable the Peripheral Interrupts
+    INTERRUPT_PeripheralInterruptEnable();
+
+    uint8_t Temp;
+    PWM4_Initialize();
+    TMR2_Initialize();
+    RA1_SetLow();
+
+    // If using interrupts in PIC18 High/Low Priority Mode you need to enable the Global High and Low Interrupts
+    // If using interrupts in PIC Mid-Range Compatibility Mode you need to enable the Global and Peripheral Interrupts
+    // Use the following macros to:
+
+    // Enable the Global Interrupts
+    //INTERRUPT_GlobalInterruptEnable();
+
+    // Disable the Global Interrupts
+    //INTERRUPT_GlobalInterruptDisable();
+
+    // Enable the Peripheral Interrupts
+    //INTERRUPT_PeripheralInterruptEnable();
+
+    // Disable the Peripheral Interrupts
+    //INTERRUPT_PeripheralInterruptDisable();
+
+    while (1)
+    {
+         PWM4_LoadDutyValue(0);
+        if(EUSART1_is_tx_ready())
+    {
+      Temp = I2C2_Read1ByteRegister(0x4C, 0x00);
+
+      printf("Temperature: %u C \n \r", Temp);
+        }
+      if(Temp>32)
+      {
+          PWM4_LoadDutyValue(1000);
+          uint8_t dir1 = 0b11001111;
+          uint8_t dir2 = 0b11001101;
+           uint8_t receive;
+   
+     SPI1_Open(SPI1_DEFAULT);
+      SS_pin_SetLow();
+
+      receive = SPI1_ExchangeByte(dir1);
+     SS_pin_SetHigh();
+      SPI1_Close();
+
+        __delay_ms(50);
+     
+      SPI1_Open(SPI1_DEFAULT);
+      SS_pin_SetLow();
+
+
+     receive = SPI1_ExchangeByte(dir2);
+
+     SS_pin_SetHigh();
+     SPI1_Close();
+      __delay_ms(50);
+         
+    
+        RA3_SetLow();
+        __delay_ms(1000);
+        
+     RA1_SetHigh();
+     __delay_ms(1000);
+            
+      }
+    } 
+    
+}
 ## Appendix C
+![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/MCC%20Configuration.png?raw=true)
 
 ## Appendix D
