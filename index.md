@@ -1,7 +1,7 @@
 ---
 Title: Mobile Environmental Sensings
 ---
-
+- [Table of Contents](#table-of-contents)
 ## Table of Contents
 
 - [Checkpoint 1 Presentation Video](# Link to our team's Youtube presentation video)
