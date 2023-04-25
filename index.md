@@ -6,7 +6,7 @@ Title: Mobile Environmental Sensings
 
 - [Link to our team's Youtube presentation video](#link-to-our-team's-Youtube-presentation-video)
 
-# Link to our team's Youtube presentation video
+## Link to our team's Youtube presentation video
 
 * [Checkpoint 1](https://youtu.be/aUGKlzh9vjw)
 
