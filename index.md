@@ -1,6 +1,10 @@
 ---
-title: Mobile Environmental Sensings
+Title: Mobile Environmental Sensings
 ---
+
+## Table of Contents
+
+- [Checkpoint 1 Presentation Video](# Link to our team's Youtube presentation video)
 
 # Link to our team's Youtube presentation video
 
