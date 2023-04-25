@@ -17,9 +17,9 @@ Title: Mobile Environmental Sensings
 11. [Final Software Implementation](https://egr314-team303.github.io/#final-software-implementation-see-appendix-a-for-mqtt-topic-table-appendix-b-for-codeappendix-c-for-mcc-configuration)
 12. [Lesson Learned](https://egr314-team303.github.io/#lesson-learned)
 13. [Recommdations for future students](https://egr314-team303.github.io/#recommendations-for-future-students)
-14. [Appendix A](https://egr314-team303.github.io/#appendix-a)
-15. [Appendix B](https://egr314-team303.github.io/#appendix-b)
-16. [Appendix C](https://egr314-team303.github.io/#appendix-c)
+14. [MQTT Topic Table](https://egr314-team303.github.io/#appendix-a)
+15. [C Code](https://egr314-team303.github.io/#appendix-b)
+16. [MCC Configuration](https://egr314-team303.github.io/#appendix-c)
 17. [Appendix D](https://egr314-team303.github.io/#appendix-d)
 
 ## Link to our team's Youtube presentation video
@@ -245,7 +245,7 @@ And here is our Bill of Materials:
 
 We list out all the Materials that we gonna use and also their Vendor link , Datasheet Link, Supplier,Manufacturer,Manufacturer Part and Schematic Reference Designators.
 
-## Final Software Implementation (See Appendix A for MQTT topic Table, Appendix B for Code,Appendix C for MCC configuration)
+## Final Software Implementation
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Software%20Proposal.drawio%20(3).png?raw=true)
 
 Since we have used temperature sensors in class and are familiar with them, we chose them as our sensor. As it is related to temperature, we naturally thought of the function of cooling. Therefore, when the temperature rises, our motor starts to operate until the temperature drops below the user's setting.
@@ -279,6 +279,10 @@ If I were to create a "Version 2.0" of the software design, I would focus on imp
 7. Use more robust peripherals: In the next version, I would use more robust peripherals to make the system more stable and reliable. This would include using high-quality sensors and motors, as well as improving the cooling and power supply systems.
 
 By making these improvements, the system would be more reliable, stable, and functional, which would make it more useful for a wider range of applications. Additionally, the system would be easier to use and maintain, which would reduce the time and effort required to operate it.
+
+● [MQTT Topic Table](https://egr314-team303.github.io/#appendix-a)
+● [C Code](https://egr314-team303.github.io/#appendix-b)
+● [MCC Configuration](https://egr314-team303.github.io/#appendix-c)
 
 ## Lesson Learned
 
