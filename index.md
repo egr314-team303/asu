@@ -182,6 +182,8 @@ This is very practical, and the price is affordable, and the delivery time is ve
 
 First of all, we have all of our electrical component be surface amount.
 
+## Power Budget
+
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Power%20budget.png?raw=true)
 
 We found the required voltage and the required power consumption from the data sheets of the respective components, and then subtracted the voltage consumed by these components from our power source to roughly calculate whether our power source can support the voltage of these components consume.
