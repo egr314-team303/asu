@@ -229,12 +229,40 @@ And here is our Bill of Materials:
 
 We list out all the Materials that we gonna use and also their Vendor link , Datasheet Link, Supplier,Manufacturer,Manufacturer Part and Schematic Reference Designators.
 
-## Final Software Implementation
+## Final Software Implementation (See Appendix A for MQTT topic Table, Appendix B for Code,Appendix C for MCC configuration)
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Software%20Proposal.drawio.png?raw=true)
+
+Since we have used temperature sensors in class and are familiar with them, we chose them as our sensor. As it is related to temperature, we naturally thought of the function of cooling. Therefore, when the temperature rises, our motor starts to operate until the temperature drops below the user's setting.
 
 We initialize the system first, then set up all hardware registers, and establish our communication (i2C for temperature sensor, spi for motor driver). All this is to make our function successful.
 
 Our software is mainly to check whether a dangerous temperature has been set. Once the set temperature is reached, our motor will rotate with the fan blades (thus achieving a cooling effect).
+
+The top 5 biggest changes are:
+
+1. We added PWM to our motor to make it more efficient.
+2. We put a limit on the temperature, as we cannot heat the temperature to very high levels.
+3. We attempted to add an LCD display to show the current temperature.
+4. We added a WiFi module.
+5. We designed the system with energy efficiency and environmental sustainability in mind, minimizing energy consumption and reducing our impact on the environment.
+
+If I were to create a "Version 2.0" of the software design, I would focus on improving the system's reliability, flexibility, and ease of use. Specifically, I would:
+
+1. Improve the code structure: I would divide the code into smaller modules to make it more organized and easy to maintain. This would also make it easier to add new features in the future.
+
+2. Implement error handling: In the current version, there is no error handling, which can make the system unstable. In the next version, I would implement error handling to detect and handle errors more effectively.
+
+3. Create a more user-friendly interface: The current version does not have a user interface, which can make it difficult for users to interact with the system. In the next version, I would create a user-friendly interface that displays the current temperature and allows users to set temperature limits and control the motor.
+
+4. Add support for multiple sensors: In the current version, only one sensor is supported. In the next version, I would add support for multiple sensors, allowing users to monitor temperatures in different locations.
+
+5. Add support for remote monitoring: In the next version, I would add support for remote monitoring, which would allow users to monitor the system from their smartphones or other devices.
+
+6. Improve the protocol design: In the next version, I would simplify and improve the protocol design to make it more efficient and reliable. This would help to ensure that the system can handle large amounts of data and communicate effectively with other devices.
+
+7. Use more robust peripherals: In the next version, I would use more robust peripherals to make the system more stable and reliable. This would include using high-quality sensors and motors, as well as improving the cooling and power supply systems.
+
+By making these improvements, the system would be more reliable, stable, and functional, which would make it more useful for a wider range of applications. Additionally, the system would be easier to use and maintain, which would reduce the time and effort required to operate it.
 
 ## Lesson Learned
 
@@ -282,4 +310,6 @@ to gain confidence and proficiency.
 questions and seek out additional resources to deepen your understanding.
 Engage with your classmates and professors, and take advantage of
 opportunities.
+
+## Appendix A 
 
