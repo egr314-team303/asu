@@ -268,25 +268,34 @@ By making these improvements, the system would be more reliable, stable, and fun
 
 ● Collaboration is necessary: Working collaboratively with team members is
 necessary to ensure that the project meets all requirements and is successful.
+
 ● Attention to detail is crucial: In egr 314, small details can have a significant
 impact on the success of a project, so attention to detail is crucial.
+
 ● Effective communication is key: Clear and consistent communication among
 team members is essential to ensure that everyone is on the same page and
 working towards the same goals.
+
 ● Planning and organization are critical: Developing a detailed project plan and
 timeline is essential to ensuring that the project stays on track and deadlines are
 met.
+
 ● Problem-solving is a valuable skill: Being able to identify and solve problems
 quickly and efficiently is a critical skill in engineering projects.
+
 ● Flexibility is key: Plans and designs may need to be adapted or changed as the
 project progresses, and being able to adapt to new challenges is essential.
+
 ● Thorough testing is essential: Testing is a critical part of the engineering process,
 and it is important to conduct thorough testing to ensure that the product or
 design functions as intended.
+
 ● Iteration is part of the process: Often, multiple iterations and revisions are
 necessary to create a successful design or product.
+
 ● Documentation is important. Documenting the project thoroughly is necessary to
 ensure that future team members can understand it and build on it.
+
 ● Continuous learning is valuable. This project will constantly evolve, and staying
 up-to-date with new technologies and techniques is important to stay
 competitive and produce high-quality work.
@@ -297,15 +306,19 @@ competitive and produce high-quality work.
 struggling with the material. Ask your professor or TA for extra help, and don't
 hesitate to form study groups with your classmates. Being proactive about your
 learning can make a big difference in your success in the class.
+
 ● Stay organized: This class will likely require a lot of reading and writing
 assignments, so it's essential to stay organized. Develop a system for keeping
 track of due dates, notes, and other important information.
+
 ● Enhance your technical writing abilities: Writing technical reports and
 presentations is a critical part of EGR 314. Improving your technical writing skills
 will help you communicate your ideas more effectively in this class.
+
 ● Familiarize yourself with engineering software and tools commonly used in the
 field, such as Cadence. Practice using these tools before the start of the course
 to gain confidence and proficiency.
+
 ● Be curious and engaged in the subject matter, and don't be afraid to ask
 questions and seek out additional resources to deepen your understanding.
 Engage with your classmates and professors, and take advantage of
