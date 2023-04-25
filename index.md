@@ -230,7 +230,7 @@ And here is our Bill of Materials:
 We list out all the Materials that we gonna use and also their Vendor link , Datasheet Link, Supplier,Manufacturer,Manufacturer Part and Schematic Reference Designators.
 
 ## Final Software Implementation (See Appendix A for MQTT topic Table, Appendix B for Code,Appendix C for MCC configuration)
-![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Software%20Proposal.drawio.png?raw=true)
+![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Software%20Proposal.drawio%20(3).png?raw=true)
 
 Since we have used temperature sensors in class and are familiar with them, we chose them as our sensor. As it is related to temperature, we naturally thought of the function of cooling. Therefore, when the temperature rises, our motor starts to operate until the temperature drops below the user's setting.
 
