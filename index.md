@@ -254,7 +254,8 @@ Front side photo of our PCB:
 Back side photo of our PCB:
 
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/IMG_0492.jpg?raw=true)
-If we were to create a "Version 2.0" of our hardware design, here are few things we will definetely make sure:
+
+## If we were to create a "Version 2.0" of our hardware design, here are few things we will definetely make sure:
 
 1. We set the orientation of some components incorrectly, causing the pins to be connected wrongly, such as the ESP32. As a result, we could only complete the connection with jumper wires. This is the first mistake we will correct.
 
