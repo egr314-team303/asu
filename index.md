@@ -20,7 +20,7 @@
 14. [MQTT Topic Table](https://egr314-team303.github.io/#appendix-a)
 15. [C Code](https://egr314-team303.github.io/#appendix-b)
 16. [MCC Configuration](https://egr314-team303.github.io/#appendix-c)
-17. [Appendix D](https://egr314-team303.github.io/#appendix-d)
+17. [Bill of Materials](https://egr314-team303.github.io/#appendix-d)
 
 ## Link to our team's Youtube presentation video
 
@@ -241,6 +241,19 @@ It satisfies the product requirements by having the tempeture sensor to be I2C a
 
 And here is our Bill of Materials ● [See Appendix D](https://egr314-team303.github.io/#appendix-d)
 
+Front side of our PCB in Cadence；
+![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Front%20side%20of%20PCB.png?raw=true)
+
+Back side of our PCB in Cadence:
+![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/backside%20of%20pcb.png?raw=true)
+
+Front side photo of our PCB:
+
+![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/IMG_0491.jpg?raw=true)
+
+Back side photo of our PCB:
+
+![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/IMG_0492.jpg?raw=true)
 If we were to create a "Version 2.0" of our hardware design, here are few things we will definetely make sure:
 
 1. We set the orientation of some components incorrectly, causing the pins to be connected wrongly, such as the ESP32. As a result, we could only complete the connection with jumper wires. This is the first mistake we will correct.
