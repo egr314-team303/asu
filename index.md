@@ -1,6 +1,6 @@
----
-Title: Mobile Environmental Sensings
----
+                                                                        
+                                                           Title: Mobile Environmental Sensings
+                                                                      
 - [Table of Contents](#table-of-contents)
 ## Table of Contents
 
@@ -172,7 +172,7 @@ This is our team’s third design, The Box. Just like the previous designs, this
 
 :star:During the discussion, our team decided that since our idea is focused on reducing temperature, and that our motor should be linked to the temperature sensor. This made us to come to a conclusion of a fan like structure that is portabl. Whlie brainstroming our three designs, we tried to combine them and figured that the one with the highest interaction with temperature is our fan design. Whenever the surrounding temperature is higher than the room temperature, our fan will start to rotate to reduce the temperature. In the current design, the PCB will be inside the body of the fan and the motor will be at the top, connected to the fan propller and further, we also consider adding OLED to display the room temperature.
 
-Selected Design:
+## Selected Design:
 
 ![image caption](https://github.com/egr314-team303/egr314-team303-asu.github.io/blob/main/Screenshot_20230120_102516.png?raw=true)
 
@@ -233,17 +233,23 @@ Team 303 together worked on the component selection and came up with the best fi
 
 
 ## Final Hardware Implementation
-![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Team%20Schematic.png?raw=true)
+![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Schematic.png?raw=true)
 
 Our Hardware design was split into 3 subsystems for each group member to work on. The subsytems that the members worked on include: Voltage regulater and PIC, Temperture Sensor, and Motor Driver and Motor. The power regulater subsystem The Regulator subsystem has a barrel jack connector input .  The 3A max power draw will never be met or exceeded in normal operating conditions, so a 3A fuse will help protect the circuit in a worst case scenario.  The 12V is stepped down and regulated to 3.3V for the PIC, sensor, motor controller, and motor to be powered by. The PIC is also wired with global tags to each other subsystem. The Temperature Sensor subsystem contains the temperature sensor and conditioning circuit. The Motor Subsystem contains both the motor and its motor controller. The motor is controlled by 4 inputs from the PIC via global tags. The motor and controller are powered off of 3.3V which is enough for the motor to turn at an acceptable speed for our intended use. It also has LEDs and Test point for debugging and a WiFi Module which is esp 32 so the user can connect to our device through Bluetooth and Monitor real-time temperature through mobile phone. We use ICSP pin for programming our pic. 
 
 It satisfies the product requirements by having the tempeture sensor to be I2C and the motor driver to be SPI. It also satisfies it by being able to capture enviromental conditions.
 
-And here is our Bill of Materials:
+And here is our Bill of Materials ● [See Appendix D](https://egr314-team303.github.io/#appendix-d)
 
-![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Bill%20of%20Materials.png?raw=true)
+If we were to create a "Version 2.0" of our hardware design, here are few things we will definetely make sure:
 
-We list out all the Materials that we gonna use and also their Vendor link , Datasheet Link, Supplier,Manufacturer,Manufacturer Part and Schematic Reference Designators.
+1. We set the orientation of some components incorrectly, causing the pins to be connected wrongly, such as the ESP32. As a result, we could only complete the connection with jumper wires. This is the first mistake we will correct.
+
+2. We will make the PCB larger because the small layout causes some pins to be unable to connect (they will touch other traces and cause a short circuit).
+
+3. The through-hole size of our fuse was not set correctly, so it cannot be directly inserted and soldered. Instead, we have to use jumper wires. Therefore, if we have the opportunity next time, we will ensure that all pin sizes are set correctly.
+
+4. If we have time, we will consider adding an OLED display because it will be an interesting feature.
 
 ## Final Software Implementation
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Software%20Proposal.drawio%20(3).png?raw=true)
@@ -438,3 +444,4 @@ void main(void)
 ![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/MCC%20Configuration.png?raw=true)
 
 ## Appendix D
+![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/Bill%20of%20Materials.png?raw=true)
