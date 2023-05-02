@@ -304,6 +304,9 @@ By making these improvements, the system would be more reliable, stable, and fun
 ● [C Code](https://egr314-team303.github.io/#appendix-b)
 ● [MCC Configuration](https://egr314-team303.github.io/#appendix-c)
 
+## System Verification
+
+![image caption](https://github.com/egr314-team303/egr314-team303.github.io/blob/main/system%20verification%20table.png?raw=true)
 ## Lesson Learned
 
 ● Collaboration is necessary: Working collaboratively with team members is
